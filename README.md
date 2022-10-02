@@ -1,3 +1,17 @@
+# Under All in One Project
+
+# Please Dont Open This Project
+
+## Okey its not ready yet
+
+### its contain a lot of frameworks with diff lang
+
+## JS - JAVA - Python - PHP (until now)
+
+# Okey here is the deal All Backend Frameworks works on PORT = 3000
+
+# and the Frontend Frameworks works on PORT = 8000
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
